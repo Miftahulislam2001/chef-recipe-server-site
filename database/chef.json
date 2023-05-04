@@ -1,0 +1,229 @@
+[
+  {
+    "_id": "1",
+    "name": "RIYADZ NUZ",
+    "experience": "3 years",
+    "number_of_recipes": "3",
+    "likes": "150050",
+    "image": "https://tse3.mm.bing.net/th?id=OIP.vRF2-Om1OKUXWEetyuB6owHaE8&pid=Api&P=0",
+    "bio": "Chef Gordon Ramsay: A renowned British chef and television personality, Gordon Ramsay has made a name for himself in the culinary world with his fiery personality and exceptional cooking skills. He has opened several successful restaurants across the globe and has received numerous accolades for his contributions to the industry.",
+    "recipes": [
+      {
+        "recipe_name": "Kung Pao Chicken",
+        "cooking_method": "Combine the sake or rice wine, soy sauce, sesame oil and cornflour dissolved in water. Divide mixture in half.\r\nIn a glass dish or bowl, combine half of the sake mixture with the chicken pieces and toss to coat. Cover dish and place in refrigerator for about 30 minutes.\r\nIn a medium frying pan, combine remaining sake mixture, chillies, vinegar and sugar. Mix together and add spring onion, garlic, water chestnuts and peanuts. Heat sauce slowly over medium heat until aromatic.",
+        "food_image": "https://www.themealdb.com/images/media/meals/1525872624.jpg",
+        "ratings": "4.9",
+        "ingredient": ["Sake","Sesame Seed Oil", "Corn Flour","Chicken"]
+      },
+      {
+        "recipe_name": "Canadian Butter Tarts",
+        "cooking_method": "Preheat the oven to fan 170C/ conventional 190C/gas 5. Roll out the pastry on a lightly floured surface so it’s slightly thinner than straight from the pack. Then cut out 18-20 rounds with a 7.5cm fluted cutter, re-rolling the trimmings. Use the rounds to line two deep 12-hole tart tins (not muffin tins). If you only have a regular-sized, 12-hole tart tin you will be able to make a few more slightly shallower tarts.\r\nBeat the eggs in a large bowl and combine with the rest of the ingredients except the walnuts.",
+        "food_image": "https://www.themealdb.com/images/media/meals/wpputp1511812960.jpg",
+        "ratings": "4.8",
+        "ingredient": ["Shortcrust Pastry","Eggs","Muscovado Sugar","Vanilla Extract"]
+      },
+      {
+        "recipe_name": "New York cheesecake",
+        "cooking_method": "Position an oven shelf in the middle of the oven. Preheat the oven to fan 160C/conventional 180C/gas 4. Line the base of a 23cm springform cake tin with parchment paper. For the crust, melt the butter in a medium pan. Stir in the biscuit crumbs and sugar so the mixture is evenly moistened. Press the mixture into the bottom of the pan and bake for 10 minutes. Cool on a wire rack while preparing the filling.",
+        "food_image": "https://www.themealdb.com/images/media/meals/swttys1511385853.jpg",
+        "ratings": "4.9",
+        "ingredient": ["Butter", "Sour Cream", "Cream Cheese","Caster Sugar"]
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "name": "OLIVIA IANZ",
+    "experience": "5 years",
+    "number_of_recipes": "3",
+    "likes": "1158540",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.d9gQdwznODNvxx-kbl8D7QHaHa&pid=Api&P=0",
+    "bio": "Chef Julia Child: Widely regarded as one of the most influential chefs of the 20th century, Julia Child was an American chef and television personality who introduced French cuisine to the American public through her popular TV show, The French Chef. She authored several cookbooks and received numerous awards for her contributions to the culinary world.",
+    "recipes": [
+      {
+        "recipe_name": "Treacle Tart",
+        "cooking_method": "First make the short crust pastry: measure the flour into a large bowl and rub in the butter with your fingertips until the mixture resembles fine breadcrumbs (alternatively, this can be done in a food processor). Add about three tablespoons of cold water and mix to a firm dough, wrap in cling film and chill in the fridge for about 20 minutes.",
+        "food_image":"https://www.themealdb.com/images/media/meals/wprvrw1511641295.jpg",
+        "ratings": "4.5",
+        "ingredient": [ "Plain Flour","Golden Syrup", "Breadcrumbs","Lemons"]
+      },
+      {
+        "recipe_name":"Parkin Cake",
+        "cooking_method": "Heat oven to 160C/140C fan/gas 3. Grease a deep 22cm/9in square cake tin and line with baking parchment. Beat the egg and milk together with a fork.\r\n\r\nGently melt the syrup, treacle, sugar and butter together in a large pan until the sugar has dissolved. Remove from the heat. Mix together the oatmeal, flour and ginger and stir into the syrup mixture, followed by the egg and milk.",
+        "food_image":  "https://www.themealdb.com/images/media/meals/qxuqtt1511724269.jpg",
+        "ratings": "4.6",
+        "ingredient": [
+            "Golden Syrup",
+            "Black Treacle",
+            "Brown Sugar",
+            "Self-raising Flour",
+            "Ground Ginger",
+            "Milk"
+        ]
+      },
+      {
+        "recipe_name": "Provençal Omelette Cake",
+        "cooking_method": "Break the eggs into two bowls, five in each. Whisk lightly and season with salt and pepper. Heat the oil in a pan, add the courgettes and spring onions, then fry gently for about 10 mins until softened. Cool, then stir into one bowl of eggs with a little salt and pepper. Add the roasted peppers to the other bowl of eggs with the garlic, chilli, salt and pepper.\r\nHeat a little oil in a 20-23cm frying pan, preferably non-stick. Pour the eggs with courgette into a measuring jug, then pourabout one-third of the mixture into the pan, swirling it to cover the base of the pan.",
+        "food_image":"https://tse2.mm.bing.net/th?id=OIP.x0HA6357yhDciBTlH5WjigAAAA&pid=Api&P=0",
+        "ratings": "4.7",
+        "ingredient": ["Courgettes","Spring Onions", "Red Pepper", "Garlic Clove"]
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "name": "JERMY ITE",
+    "experience": "1 years",
+    "number_of_recipes": "3",
+    "likes": "56050",
+    "image": "https://c8.alamy.com/comp/P0D3TY/handsome-african-american-chef-looking-at-camera-with-crossed-arms-P0D3TY.jpg",
+    "bio": "Chef Massimo Bottura: An Italian chef and restaurateur, Massimo Bottura is the owner and head chef of Osteria Francescana, a three-Michelin-starred restaurant in Modena, Italy. He is known for his innovative approach to traditional Italian cuisine and has received numerous awards for his contributions to the industry.",
+    "recipes": [
+      {
+        "recipe_name":"Sugar Pie",
+        "cooking_method": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9-inch pie dish.\r\nPlace the brown sugar and butter in a mixing bowl, and beat them together with an electric mixer until creamy and very well combined, without lumps. Beat in eggs, one at a time, incorporating the first egg before adding the next one. Add the vanilla extract and salt; beat the flour in, a little at a time, and then the milk, making a creamy batter.",
+        "food_image": "https://www.themealdb.com/images/media/meals/yrstur1511816601.jpg",
+        "ratings": "4.5",
+        "ingredient": ["Vanilla Extract","Plain Flour", "Brown Sugar","Butter"]
+      },
+      {
+        "recipe_name": "Lasagne",
+        "cooking_method": "Heat the oil in a large saucepan. Use kitchen scissors to snip the bacon into small pieces, or use a sharp knife to chop it on a chopping board. Add the bacon to the pan and cook for just a few mins until starting to turn golden. Add the onion, celery and carrot, and cook over a medium heat for 5 mins, stirring occasionally, until softened.",
+        "food_image": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
+        "ratings": "4.6",
+        "ingredient": ["Tomato Puree","Chopped Tomatoes", "Lasagne Sheets","Creme Fraiche"]
+      },
+      {
+        "recipe_name": "Ayam Percik",
+        "cooking_method": "In a blender, add the ingredients for the spice paste and blend until smooth.\r\nOver medium heat, pour the spice paste in a skillet or pan and fry for 10 minutes until fragrant. Add water or oil 1 tablespoon at a time if the paste becomes too dry. Don't burn the paste. Lower the fire slightly if needed.\r\nAdd the cloves, cardamom, tamarind pulp, coconut milk, water, sugar and salt. Turn the heat up and bring the mixture to boil. Turn the heat to medium low and simmer for 10 minutes. Stir occasionally.",
+        "food_image": "https://www.themealdb.com/images/media/meals/020z181619788503.jpg",
+        "ratings": "4.7",
+        "ingredient": ["Chicken Thighs", "Challots", "Garlic Clove","Cayenne Pepper"]
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "name": "HANRY MES",
+    "experience": "8 years",
+    "number_of_recipes": "5",
+    "likes": "11158050",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/JOH_0416_%286079731832%29.jpg",
+    "bio": "Chef Dominique Crenn: A French chef based in the United States, Dominique Crenn is the first female chef in the US to receive three Michelin stars. She is the owner and head chef of Atelier Crenn, a restaurant in San Francisco that offers a unique and creative approach to fine dining.",
+    "recipes": [
+      {
+        "recipe_name": "Nanaimo Bars",
+        "cooking_method": "Start by making the biscuit base. In a bowl, over a pan of simmering water, melt the butter with the sugar and cocoa powder, stirring occasionally until smooth. Whisk in the egg for 2 to 3 mins until the mixture has thickened. Remove from heat and mix in the biscuit crumbs, coconut and almonds if using, then press into the base of a lined 20cm square tin. ",
+        "food_image":"https://www.themealdb.com/images/media/meals/vwuprt1511813703.jpg",
+        "ratings": "4.5",
+        "ingredient": [ "Caster Sugar", "Digestive Biscuits","Custard Powder", "Dark Chocolate"]
+      },
+      {
+        "recipe_name": "Tourtiere",
+        "cooking_method": "Heat oven to 200C/180C fan/gas 6. Boil the potato until tender, drain and mash, then leave to cool. Heat the oil in a non-stick pan, add the mince and onion and quickly fry until browned. Add the garlic, spices, stock, plenty of pepper and a little salt and mix well. Remove from the heat, stir into the potato and leave to cool.\r\nRoll out half the pastry and line the base of a 20-23cm pie plate or flan tin.",
+        "food_image":  "https://www.themealdb.com/images/media/meals/ytpstt1511814614.jpg",
+        "ratings": "4.6",
+        "ingredient": ["Sunflower Oil", "Minced Pork","Garlic Clove", "Allspice"]
+      },
+      {
+        "recipe_name": "Potato Gratin with Chicken",
+        "cooking_method":"15 minute potato gratin with chicken and bacon greens: a gratin always seems more effort and more indulgent than ordinary boiled or roasts, but it doesn't have to take 45mins, it's nice for a change and you can control the calorie content by going with full fat to low fat creme fraiche. (It's always tastes better full fat though obviously!) to serve 4: use 800g of potatoes.",
+        "food_image": "https://www.themealdb.com/images/media/meals/qwrtut1468418027.jpg",
+        "ratings": "4.7",
+        "ingredient": ["Chicken Stock","Creme Fraiche","Chicken Breasts","Spinach"]
+      },
+      {
+        "recipe_name": "Pancakes",
+        "cooking_method": "Melt the butter in a skillet or pan. When melted, add the flour little by little and stir into a thick paste. Slowly stir in the stock, making sure the roux absorbs the liquid. Simmer for a couple of minutes on a low heat while you stir in the onion, parsley and the shredded meat. The mixture should thicken and turn into a heavy, thick sauce.\r\n\r\nPour the mixture.",
+        "food_image": "https://www.themealdb.com/images/media/meals/rwuyqx1511383174.jpg",
+        "ratings": "4.8",
+        "ingredient": ["Butter", "Flour", "Beef Stock", "Onion"]
+      },
+      {
+        "recipe_name": "Spanish Tortilla",
+        "cooking_method": "Grease and line a 20 x 20cm/8\" x 8\" baking tin with parchment paper.\r\nPut the mars bars and butter in a heat proof bowl and place over a pan of barely simmering water. Mixing with a whisk, melt until the mixture is smooth.\r\nPour  baking tin and set aside.\r\nMelt the milk chocolate in the microwave or over a pan of barely simmering water.\r\nSpread the.",
+        "food_image": "https://www.themealdb.com/images/media/meals/quuxsx1511476154.jpg",
+        "ratings": "4.9",
+        "ingredient": ["Flour", "Beef Stock", "Parsley", "Beef"]
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "name": "ICHARD AUZ",
+    "experience": "2 years",
+    "number_of_recipes": "3",
+    "likes": "156050",
+    "image": "https://images.getbento.com/accounts/3e3c9a975ad1b4ca467f67bf4419516e/media/images/77829kevin.jpg?w=1000&fit=max&auto=compress,format&h=1000",
+    "bio": "Chef Marcus Samuelsson: A Swedish-Ethiopian chef and restaurateur, Marcus Samuelsson is the owner and head chef of several successful restaurants, including Red Rooster in Harlem and Marcus B&P in Newark. He is known for his fusion of traditional African, European, and American cuisine and has received numerous awards for his contributions to the industry.",
+    "recipes": [
+      {
+        "recipe_name": "Key Lime Pie",
+        "cooking_method": "Heat the oven to 160C/fan 140C/gas 3. Whizz the biscuits to crumbs in a food processor (or put in a strong plastic bag and bash with a rolling pin). Mix with the melted butter and press into the base and up the sides of a 22cm loose-based tart tin. Bake in the oven for 10 minutes. Remove and cool.\r\nPut the egg yolks in a large bowl and whisk for a minute with electric beaters. ",
+        "food_image": "https://www.themealdb.com/images/media/meals/qpqtuu1511386216.jpg",
+        "ratings": "4.5",
+        "ingredient": ["Digestive Biscuits", "Condensed Milk", "Double Cream","Garlic"]
+      },
+      {
+        "recipe_name": "McSinghs Scotch pie",
+        "cooking_method": "Heat a large frying pan and toast the cumin seeds for a few minutes, then set aside. Heat the oil in the same pan and fry the onion, garlic, chilli, pepper and a good pinch of salt for around eight minutes, until there is no moisture left. Remove from the heat, stir in the toasted cumin seeds, ground mace (or nutmeg) and ground coriander. ",
+        "food_image":  "https://www.themealdb.com/images/media/meals/vssrtx1511557680.jpg",
+        "ratings": "4.6",
+        "ingredient": ["Rapeseed Oil","Lamb Mince", "Plain Flour", "Egg Yolks"]
+      },
+      {
+        "recipe_name":"Dundee cake",
+        "cooking_method": "Put the almonds into a small bowl and pour over boiling water to just cover. Leave for 5 mins then drain in a sieve and leave to dry.\r\nPreheat the oven to 180C/160 C fan/Gas Mark 4. Line a deep loose-based 20cm cake tin with baking parchment.\r\nPut the butter in a large bowl and beat well until soft. Add the sugar and beat until light and fluffy. Stir in the orange zest and apricot jam.\r\nSieve together the flour and baking powder. Add the eggs to the creamed butter and sugar, a little at a time, beating well between each addition.",
+        "food_image": "https://www.themealdb.com/images/media/meals/wxyvqq1511723401.jpg",
+        "ratings": "4.7",
+        "ingredient": ["Muscovado Sugar", "Flour", "Cumin", "Honey"]
+      }
+    ]
+  },
+  {
+    "_id": "6",
+    "name": "RINAUZ JUN",
+    "experience": "5 years",
+    "number_of_recipes": "4",
+    "likes": "415005",
+    "image": "https://images.getbento.com/accounts/3e3c9a975ad1b4ca467f67bf4419516e/media/images/69027IMG_9134.jpg?w=1200&fit=crop&auto=compress,format&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+    "bio": "Chef José Andrés: A Spanish-American chef and humanitarian, José Andrés is the owner and head chef of several successful restaurants, including Jaleo and minibar by José Andrés. He is also the founder of World Central Kitchen, a non-profit organization that provides food relief to disaster-stricken areas around the world. Andrés has received numerous awards for his contributions to the culinary industry and his philanthropic work.",
+    "recipes": [
+      {
+        "recipe_name": "Treacle Tart",
+        "cooking_method": "First make the short crust pastry: measure the flour into a large bowl and rub in the butter with your fingertips until the mixture resembles fine breadcrumbs (alternatively, this can be done in a food processor). Add about three tablespoons of cold water and mix to a firm dough, wrap in cling film and chill in the fridge for about 20 minutes.",
+        "food_image": "https://www.themealdb.com/images/media/meals/wprvrw1511641295.jpg",
+        "ratings": "4.5",
+        "ingredient": ["Aubergine", "Onion", "Garlic", "Oil"]
+      },
+      {
+        "recipe_name": "Eccles Cakes",
+        "cooking_method": "In a bowl, mash the banana with a fork until it resembles a thick purée. Stir in the eggs, baking powder and vanilla.\r\nHeat a large non-stick frying pan or pancake pan over a medium heat and brush with half the oil. Using half the batter, spoon two pancakes into the pan, cook for 1-2 mins each side, then tip onto a plate. Repeat the process with the.",
+        "food_image": "https://www.themealdb.com/images/media/meals/wtqrqw1511639627.jpg",
+        "ratings": "5",
+        "ingredient": ["Mixed Peel","Muscovado Sugar", "Cinnamon", "Beef"]
+      },
+      {
+        "recipe_name": "Katsu Chicken curry",
+        "cooking_method": "Heat the olive oil in a heavy-based pan and add the onion and carrot. Cook for 3- 4 mins until softened.\r\n\r\nAdd the diced lamb and brown all over. Stir in the garlic and all the spices and cook for a few mins more or until the aromas are released.\r\n\r\nAdd the honey and apricots, crumble in the stock cube and pour over roughly 500ml boiling water or.",
+        "food_image": "https://www.themealdb.com/images/media/meals/vwrpps1503068729.jpg",
+        "ratings": "4.9",
+        "ingredient": [
+          "breadcrumbs",
+          "sunflower oil",
+          "Carrots",
+          "Onion",
+          "Cumin",
+          "Honey"
+        ]
+      },
+      {
+        "recipe_name": "Apple Frangipan Tart",
+        "cooking_method": "Heat the olive oil in a heavy-based pan and add the onion and carrot. Cook for 3- 4 mins until softened.\r\n\r\nAdd the diced lamb and brown all over. Stir in the garlic and all the spices and cook for a few mins more or until the aromas are released.\r\n\r\nAdd the honey and apricots, crumble in the stock cube and pour over roughly 500ml boiling water or.",
+        "food_image":"https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg",
+        "ratings": "4.7",
+        "ingredient": ["Bramley apples", "butter, softened", "free-range eggs, beaten", "ground almonds"]
+      }
+    ]
+  }
+]
